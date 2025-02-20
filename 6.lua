@@ -26,9 +26,6 @@ local settingsTable = {
 		-- buildwarnings
 		-- Dracoprompts
 
-	},
-	System = {
-		usageAnalytics = {Type = 'toggle', Value = true, Name = 'Anonymised Analytics'},
 	}
 }
 
