@@ -5,7 +5,7 @@ black kingkong ddqwkdoqwpodkqwpodkqowpkdpqwkdpoqkdqw
 i love your mum so much because your mum is fat nigga dick head never again fuck you
 
 black kingkong ddqwkdoqwpodkqwpodkqowpkdpqwkdpoqkdqw
-i love your mum so much because your mum is fat nigga dick head never again fuck you
+i love your mum so much because your mum is fat nigga dick head never again fuck youdwq
 
 black kingkong ddqwkdoqwpodkqwpodkqowpkdpqwkdpoqkdqw
 i love your mum so much because your mum is fat nigga dick head never again fuck you
