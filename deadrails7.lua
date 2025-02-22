@@ -6,6 +6,7 @@ local humanoid = character:WaitForChild("Humanoid")
 local autoCollectBond = false -- Biến kiểm soát trạng thái tự động thu thập
 local bondCollectionRange = 1000 -- Phạm vi thu thập Bond
 local moveToDistance = 3 -- Khoảng cách dịch chuyển Bond về gần
+repeat wait() until workspace.CurrentCamera
 local camera = workspace.CurrentCamera
 
 local userInputService = game:GetService("UserInputService")
