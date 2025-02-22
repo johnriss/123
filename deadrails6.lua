@@ -7,12 +7,7 @@ local autoCollectBond = false -- Biến kiểm soát trạng thái tự động 
 local bondCollectionRange = 1000 -- Phạm vi thu thập Bond
 local moveToDistance = 3 -- Khoảng cách dịch chuyển Bond về gần
 local camera = workspace.CurrentCamera
-while not camera do
-    wait()
-    camera = workspace.CurrentCamera
-end
 
-print("Camera found:", camera)
 local userInputService = game:GetService("UserInputService")
 local virtualInputManager = game:GetService("VirtualInputManager")
 
