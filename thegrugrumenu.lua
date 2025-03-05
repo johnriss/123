@@ -115,8 +115,10 @@ local function createGui(config)
     }):Play()
 end
 
-return function(config)
+local function init(config)
     local character = player.Character or player.CharacterAdded:Wait()
     createGui(config or {})
     player.CharacterAdded:Connect(function() createGui(config or {}) end)
 end
+
+return init
