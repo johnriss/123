@@ -190,7 +190,7 @@ local function createGui()
         tween.Completed:Connect(function() screenGui:Destroy() end)
     end)
 
-    -- Logic nút thu nhỏ
+    -- Logic nút thu nhỏ phước
     local isMinimized = false
     minimizeButton.MouseButton1Click:Connect(function()
         if not isMinimized then
@@ -198,6 +198,7 @@ local function createGui()
                 Size = UDim2.new(0, 320, 0, 50)
             }):Play()
             youtubeButton.Visible = false
+            newButton.Visible = false
             minimizeButton.Text = "+"
             isMinimized = true
         else
@@ -205,6 +206,7 @@ local function createGui()
                 Size = UDim2.new(0, 320, 0, 220)
             }):Play()
             youtubeButton.Visible = true
+            newButton.Visible = true
             minimizeButton.Text = "−"
             isMinimized = false
         end
